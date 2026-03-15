@@ -1,6 +1,6 @@
 PS4linux banchmarking tool it works with PS4inux and normal devices too like your normal linux computer.
 
-run ./PS4gpu-advenced-test.sh
+run ./PS4gpu-advanced-test.sh
 then it will deceted your GPU 
 then, 
 
